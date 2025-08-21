@@ -1,9 +1,9 @@
-<div style="display: flex; gap: 20px; justify-content: center; margin-bottom: 40px;"> 
+<div style="display: flex; gap: 20px; justify-content: center; margin-bottom: 50px;"> 
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeViana14&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana14&layout=compact&theme=dark" alt="Top Langs" height="150"/> 
 </div>
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;"> 
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 50px;"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> 
@@ -15,7 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/> 
 </div>
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 40px;"> 
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 50px;"> 
   <a href="https://discord.com/guizin#5502"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a> 
   <a href="mailto:guilhermevianafilgueiras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
   <a href="https://www.linkedin.com/in/guilherme-viana-4b5211234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
