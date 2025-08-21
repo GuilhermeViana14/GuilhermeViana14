@@ -38,5 +38,5 @@
 
 <br>
 <div align="center">
-  <img src="https://media.giphy.com/media/L0t9x8pFq0i7o/giphy.gif" alt="Animação Coding" width="300"/>
+  <img src="https://media.tenor.com/4Dg0A3uHjVYAAAAC/coding-programming.gif" alt="Animação Coding" width="300"/>
 </div>
