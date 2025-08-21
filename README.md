@@ -37,6 +37,4 @@
 </div>
 
 <br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/assets/coding.gif" alt="Coding" width="300"/>
-</div>
+
