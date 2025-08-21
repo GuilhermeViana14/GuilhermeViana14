@@ -38,5 +38,5 @@
 
 <br>
 <div align="center">
-  <img src="https://media.tenor.com/4Dg0A3uHjVYAAAAC/coding-programming.gif" alt="Animação Coding" width="300"/>
+  <img src="https://media.giphy.com/media/3o7aD4kqF1hV8JfFZe/giphy.gif" alt="Developer" width="300"/>
 </div>
