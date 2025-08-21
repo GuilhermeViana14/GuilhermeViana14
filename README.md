@@ -35,3 +35,6 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/programmer.gif" alt="Coding animation" width="300"/>
+</div>
