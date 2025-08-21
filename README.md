@@ -27,7 +27,7 @@
 
 <br><br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://discord.com/guizin#5502"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:guilhermevianafilgueiras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
