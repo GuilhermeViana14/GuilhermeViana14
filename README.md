@@ -29,9 +29,9 @@
 
 <div align="left">
   <a href="https://discord.com/guizin#5502"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:guilhermevianafilgueiras@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/guilherme-viana-4b5211234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
