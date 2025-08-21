@@ -1,5 +1,5 @@
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 60px;">
   <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeViana14&show_icons=true&theme=dark" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeViana14&layout=compact&theme=dark" alt="Top Langs" height="150"/>
 </div
