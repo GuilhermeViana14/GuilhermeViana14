@@ -35,3 +35,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/guilherme-viana-4b5211234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/L0t9x8pFq0i7o/giphy.gif" alt="Animação Coding" width="300"/>
+</div>
